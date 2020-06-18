@@ -45,16 +45,17 @@ No primeiro acesso vai gerar uma pagina com 10 empresas previamente cadastradas 
 1. Selecione uma empresa.<br>
 ![](https://github.com/VictorSimao/COMPANY-CLASSIFICATION/blob/master/app/static/assets/selecionar-empresa.PNG?raw=true)
 
-2. Selecione um dois arquivo que se encontra na pasta do projeto (company-classification/archive/reports):<br>
+2. Selecione um dois arquivo que se encontra na pasta do projeto (COMPANY-CLASSIFICATION/archive/reports/):<br>
 ![](https://github.com/VictorSimao/COMPANY-CLASSIFICATION/blob/master/app/static/assets/relatorios-score.PNG?raw=true)
 
 
-3. Clica em enviar arquivo.<br>
+3. Clique em enviar arquivo.<br>
 ![](https://github.com/VictorSimao/COMPANY-CLASSIFICATION/blob/master/app/static/assets/enviar-arquivo.PNG?raw=true")
 
 
 4. Classificação vai se atualizar.
-
-
+<br>
+<br>
+<br>
 
 By Victor Simão :beers:	 [Mande um oi!](https://www.linkedin.com/in/victordiogosimao/)
