@@ -1,0 +1,1 @@
+ID ; Empresa ; Notas Fiscal ; Débitos ; Indice ; Data do upload ; Hora do upload
